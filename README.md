@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">@My name is  Madhu and my nickname is  Maduu<br>@ I have done Masters in computer application From the Parul University<br>@ I'm Tenacious......</p>
+<p align="left">@My name is  Madhu and my nickname is  Madu.....<br>@ I have done Masters in computer application From the Parul University<br>@ I'm Tenacious......</p>
 
 ###
 

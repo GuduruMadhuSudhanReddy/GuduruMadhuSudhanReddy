@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨i'm Tenacious <br>📚 I'm currently learning new things, particularly in the field of IT. My aims to learn as much as possible and intends to use my knowledge for the betterment of society. i am  interested in contributing to my nation through my IT skills .<br>🎯 Goals: Exploring & Using my studies and knowledge for the betterment of society.<br>🎯Contributing to society in a meaningful way.<br>@ Watching Movies, Playing  Sports</p>
+<p align="left">✨i'm Tenacious <br>📚 I'm currently learning new things, particularly in the field of IT. My aims to learn as much as possible and intends to use my knowledge for the betterment of company. i am  interested in contributing to my company through my IT skills .<br>🎯 Goals: Exploring & Using my studies and knowledge for the betterment of society.<br>🎯Contributing to society in a meaningful way.<br>@ Watching Movies, Playing  Sports</p>
 
 ###
 

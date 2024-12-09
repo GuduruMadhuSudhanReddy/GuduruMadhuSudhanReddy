@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">@My name is  Madhu and my nickname is  Madu.....<br><@ I'm Tenacious......</p>
+<p align="left">@My name is  Madhu.<br></p>
 
 ###
 

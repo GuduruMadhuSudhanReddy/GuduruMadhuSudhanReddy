@@ -1,18 +1,34 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+👋 Hi, I’m Madhu Sudhan Reddy!
 
-###
+I’m a passionate **Python developer** specializing in **web development** using **Django** and **Flask**. I’m always eager to learn new technologies, and I love building tools that help solve real-world problems.
 
-<p align="left">@My name is  Madhu.<br></p>
+🌱 **Currently learning**:
+- Advanced Django features and best practices
+- React and front-end technologies
+- Cloud deployment (AWS, Heroku)
+  
+🔧 **Tech Stack**:
+- Python, Django, Flask
+- MySQL, PostgreSQL, SQLite
+- Git, Docker
+- HTML, CSS, JavaScript
+  
+🚀 **Goals**:
+- Master full-stack development
+- Contribute to open-source projects
+- Build scalable and high-performance applications
 
-###
+Let’s connect! Feel free to browse my repositories and get in touch if you'd like to collaborate.
 
-<h2 align="left">About me</h2>
+📧 Email: [your-email@example.com]
 
-###
 
-<p align="left">✨i'm Tenacious <br>📚 I'm currently learning new things, particularly in the field of IT. My aims to learn as much as possible and intends to use my knowledge for the betterment of company. i am  interested in contributing to my company through my IT skills .<br>🎯 Goals: Exploring & Using my studies and knowledge for the betterment of society.<br>🎯Contributing to society in a meaningful way.<br>@ Watching Movies, Playing  Sports</p>
 
-###
+
+
+
+
+
 
 <h2 align="left">I code with</h2>
 

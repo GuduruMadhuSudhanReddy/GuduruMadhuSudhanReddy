@@ -1,5 +1,5 @@
 About Me
-👋 Hi, I’m [Your Name]!
+👋 Hi, I’m Madhu!
 
 I’m an enthusiastic Python developer with a focus on web development using Django. I love learning new technologies and building projects that can solve real-world problems. Currently, I’m building web applications with Django and gaining hands-on experience with full-stack development.
 
